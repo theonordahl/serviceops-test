@@ -1,0 +1,4682 @@
+/* screen - situation */
+
+.situation {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 930px;
+  min-width: 1440px;
+  position: relative;
+}
+
+.situation .navigation {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.situation .frame-9 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--eerie-black);
+  display: flex;
+  gap: 346px;
+  padding: 0px 16px;
+  position: relative;
+}
+
+.situation .frame {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .my-it {
+  color: var(--white);
+  font-family: var(--font-family-open_sans);
+  font-size: 21px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .label {
+  margin-top: -1.00px;
+}
+
+.situation .services {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .label-1 {
+  color: var(--chilean-fire);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  margin-top: -1.00px;
+}
+
+.situation .label-2 {
+  margin-top: -1.00px;
+}
+
+.situation .label-3 {
+  margin-top: -1.00px;
+}
+
+.situation .icon-comments {
+  left: 0;
+  line-height: normal;
+  top: 0;
+  width: 22px;
+}
+
+.situation .icon-angle {
+  left: 24px;
+  line-height: 10px;
+  top: 14px;
+  width: 7px;
+}
+
+.situation .overlap-group-2 {
+  height: 34px;
+  position: relative;
+  width: 68px;
+}
+
+.situation .icon-angle-1 {
+  letter-spacing: 0;
+  line-height: 16px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: 7px;
+}
+
+.situation .tabs {
+  align-self: stretch;
+  background-color: var(--concrete);
+  box-shadow: inset 0px -1px 0px #d9d9d9;
+  height: 52px;
+  min-width: 1440px;
+  overflow: hidden;
+  position: relative;
+}
+
+.situation .frame-47 {
+  align-items: flex-start;
+  display: flex;
+  left: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .tabs-item-default {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 4px 4px 0px 0px;
+  box-shadow: inset 1px 1px 0px #d9d9d9 , inset -1px 0px 0px #d9d9d9;
+  gap: 8px;
+  padding: 16px 32px;
+  width: fit-content;
+}
+
+.situation .text-1-1 {
+  color: var(--scarlet);
+  font-family: var(--font-family-dpl-iconfont-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .text-2-1 {
+  color: var(--eerie-black);
+  font-family: var(--font-family-dpl-iconfont-regular);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  margin-bottom: -1536.00px;
+  padding: 16px;
+  position: relative;
+}
+
+.situation .frame-20049 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  position: relative;
+}
+
+.situation .frame-200 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.situation .frame-20041 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px solid;
+  border-color: var(--concrete);
+  border-radius: 4px;
+  box-shadow: 0px 6px 8px #0000000d;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -1.00px;
+  margin-left: -1.00px;
+  margin-right: -1.00px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.situation .summary {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 4px 4px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  padding: 8px 16px;
+  position: relative;
+}
+
+.situation .frame-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.situation .frame-2 {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .title {
+  color: var(--pink-swan);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  line-height: 20px;
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.situation .frame-626128 {
+  align-items: center;
+  background-color: #e1efff;
+  border: 1px solid;
+  border-color: #a2cfff;
+  border-radius: 11px;
+  display: flex;
+  gap: 4px;
+  padding: 0px 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .frame-20027 {
+  align-items: center;
+  border-radius: 11px;
+  display: flex;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .frame-19993 {
+  align-items: center;
+  border-radius: 2px;
+  display: flex;
+  gap: 2px;
+  margin-bottom: -1.00px;
+  margin-left: -1.00px;
+  margin-right: -1.00px;
+  margin-top: -1.00px;
+  padding: 2px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .group {
+  height: 7.97px;
+  min-width: 10px;
+  position: relative;
+}
+
+.situation .text {
+  color: var(--dodger-blue);
+  font-family: var(--font-family-dpl-iconfont-regular);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .frame-20079 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 16px;
+  position: relative;
+}
+
+.situation .text-4-1 {
+  color: var(--scarlet);
+  font-family: var(--font-family-dpl-iconfont-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .retail-outlet-log {
+  color: var(--eerie-black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .frame-626104 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 16px;
+  position: relative;
+}
+
+.situation .edit-summary {
+  color: transparent;
+  font-family: var(--font-family-dpl-iconfont-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .span0 {
+  line-height: 28px;
+}
+
+.situation .span1 {
+  line-height: 20px;
+}
+
+.situation .span2 {
+  line-height: 18px;
+}
+
+.situation .frame-626137 {
+  align-items: flex-start;
+  display: flex;
+  gap: 28px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .share {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 51px;
+}
+
+.situation .buttons {
+  background-color: var(--mercury);
+  padding: 5px 8px;
+}
+
+.situation .frame-1-1 {
+  align-items: flex-start;
+  gap: 8px;
+  width: fit-content;
+}
+
+.situation .text-5 {
+  color: var(--eerie-black);
+  font-family: var(--font-family-dpl-iconfont-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  line-height: 17px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.situation .frame-19979 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 0px 0px 4px 4px;
+  display: flex;
+  gap: 48px;
+  padding: 12px 16px;
+  position: relative;
+}
+
+.situation .frame-20011 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .badge {
+  align-items: center;
+  background-color: var(--scarlet);
+  border-radius: 1px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 2px 10px 3px;
+}
+
+.situation .badge-label {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.situation .frame-19979-item {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .incidents {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .inc000000025919 {
+  color: var(--persian-green);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .frame-20012 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 4px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .impacted-service {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .retail-outlet {
+  color: var(--persian-green);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .text-6 {
+  line-height: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .status {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .open {
+  color: var(--cape-cod);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .occurred {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .address {
+  color: var(--cape-cod);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .status-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  gap: 8px;
+  justify-content: flex-end;
+  padding: 0px 0px 0px 15px;
+  position: relative;
+}
+
+.situation .similar-situations {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .tags {
+  background-color: #005c57;
+  padding: 2px 12px;
+}
+
+.situation .tintin {
+  color: var(--white);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  line-height: 23px;
+}
+
+.situation .frame-20021 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 4px;
+  position: relative;
+}
+
+.situation .title-1 {
+  line-height: 20px;
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.situation .frame-626147 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px solid;
+  border-color: var(--alto);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+}
+
+.situation .frame-626126 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 4px 4px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+}
+
+.situation .frame-626126-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px solid;
+  border-color: var(--concrete);
+  border-radius: 4px 4px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  margin-left: -1.00px;
+  margin-right: -1.00px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.situation .frame-20064 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--alabaster);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--concrete);
+  border-radius: 4px 4px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  height: 87px;
+  justify-content: center;
+  margin-left: -1.00px;
+  margin-top: -1.00px;
+  padding: 16px;
+  position: relative;
+}
+
+.situation .frame-20029 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  margin-top: -1.50px;
+  position: relative;
+}
+
+.situation .frame-626110 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 6px;
+  position: relative;
+}
+
+.situation .frame-626121 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+}
+
+.situation .text-7 {
+  line-height: 20px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.situation .title-2 {
+  color: var(--eerie-black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  line-height: 23px;
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.situation .title-3 {
+  line-height: 18px;
+  width: fit-content;
+}
+
+.situation .frame-20067 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 16px;
+  height: 27px;
+  position: relative;
+}
+
+.situation .frame-626127 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .backend-errors-excee {
+  color: var(--eerie-black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .event-details {
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .status-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  gap: 8px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.situation .text-9 {
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.situation .recommendations {
+  color: var(--chicago);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .text-10 {
+  line-height: 20px;
+  position: relative;
+  text-align: right;
+  transform: rotate(-180deg);
+  width: fit-content;
+}
+
+.situation .frame-20042 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--alabaster);
+  border-radius: 0px 0px 4px 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  margin-top: -1px;
+  padding: 16px;
+  position: relative;
+}
+
+.situation .frame-626149 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  padding: 4px 0px;
+  position: relative;
+}
+
+.situation .tab-label {
+  align-self: stretch;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.situation .frame-20037 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  border-radius: 4px;
+  display: flex;
+  height: 216px;
+  margin-bottom: -1.00px;
+  margin-left: -1.00px;
+  margin-right: -1.00px;
+  position: relative;
+}
+
+.situation .frame-20044 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 4px 0px 0px 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  opacity: 0.8;
+  padding: 16px 0px;
+  position: relative;
+  width: 533px;
+}
+
+.situation .tabs-item-stacked {
+  align-items: flex-start;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0px 16px;
+}
+
+.situation .tab-label-1 {
+  line-height: 20px;
+  margin-top: -1.00px;
+}
+
+.situation .tab-label-2 {
+  color: var(--eerie-black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  line-height: 23px;
+}
+
+.situation .frame-20031 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-color: var(--alto);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-radius: 0px 4px 4px 0px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: -1.00px;
+  padding: 16px;
+  position: relative;
+}
+
+.situation .tab-label-3 {
+  line-height: 18px;
+  margin-top: -1.00px;
+}
+
+.situation .card {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.situation .frame-1-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--alabaster);
+  border: 1px solid;
+  border-color: var(--alto);
+  border-radius: 4px 4px 0px 0px;
+  gap: 10px;
+  height: 38px;
+  padding: 9px 15px;
+}
+
+.situation .automation-policy-details {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.situation .frame-2-2 {
+  align-self: stretch;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  border-radius: 0px 0px 4px 4px;
+  margin-top: -1px;
+  padding: 9px 15px;
+}
+
+.situation .frame-20036 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+}
+
+.situation .restarting-the-pods {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .badge-1 {
+  align-items: center;
+  background-color: var(--sushi);
+  border-radius: 1px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 2px 10px 3px;
+}
+
+.situation .an-additional-replic {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: 620px;
+}
+
+.situation .buttons-1 {
+  background-color: var(--mercury);
+  padding: 7px 12px;
+}
+
+.situation .frame-20059 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.situation .buttons-2 {
+  padding: 9px 0px;
+}
+
+.situation .text-11 {
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.situation .additional-details {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.situation .title-4 {
+  align-self: stretch;
+  line-height: 20px;
+  margin-top: -1.00px;
+}
+
+.situation .accordion-1 {
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.situation .accordion-header {
+  align-items: center;
+  background-color: var(--concrete);
+  border: 1px solid;
+  border-color: var(--alto);
+  border-radius: 4px 4px 0px 0px;
+  padding: 9px 16px;
+}
+
+.situation .frame-23 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  position: relative;
+}
+
+.situation .frame-22 {
+  align-items: flex-start;
+  display: flex;
+  gap: 4px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-1 {
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.situation .title-5 {
+  line-height: 20px;
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.situation .topology-wrapper {
+  align-items: flex-end;
+  align-self: stretch;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  border-radius: 0px 0px 4px 4px;
+  display: flex;
+  flex-direction: column;
+  height: 418px;
+  justify-content: space-between;
+  margin-top: -1px;
+  padding: 15px 22px;
+  position: relative;
+}
+
+.situation .image-5 {
+  height: 287px;
+  left: 166px;
+  object-fit: cover;
+  position: absolute;
+  top: 92px;
+  width: 1077px;
+}
+
+.situation .top-nav {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.situation .left {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .buttons-3 {
+  background-color: var(--mercury);
+  padding: 9px 16px;
+}
+
+.situation .text-14 {
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.situation .buttons-4 {
+  background-color: var(--chilean-fire);
+  padding: 9px 16px;
+}
+
+.situation .text-15 {
+  color: var(--white);
+  font-family: var(--font-family-dpl-iconfont-regular);
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.situation .advanced-filtering-button {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .closed {
+  align-items: center;
+  border-radius: 2px;
+  display: flex;
+  gap: 6px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-16 {
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.situation .text-17 {
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.situation .tags-1 {
+  background-color: var(--persian-green);
+  padding: 1px 20px;
+}
+
+.situation .tintin-1 {
+  line-height: 18px;
+}
+
+.situation .right-1 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .buttons-5 {
+  padding: 9px 16px;
+}
+
+.situation .text-18 {
+  color: var(--persian-green);
+  font-family: var(--font-family-dpl-iconfont-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.situation .buttons-6 {
+  background-color: var(--chilean-fire);
+  padding: 7px 12px;
+}
+
+.situation .text-19 {
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.situation .minimap {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: -364px;
+  position: relative;
+  width: 148px;
+}
+
+.situation .frame-626132 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--alabaster);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  gap: 8px;
+  height: 119px;
+  justify-content: center;
+  padding: 8px;
+  position: relative;
+}
+
+.situation .image-6 {
+  height: 36px;
+  margin-left: -1.50px;
+  margin-right: -1.50px;
+  min-width: 135px;
+  position: relative;
+}
+
+.situation .button-group-simple {
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .button-group-simple-secondary {
+  align-items: flex-start;
+  background-color: var(--mercury);
+  border-color: var(--pink-swan);
+  border-radius: 4px 0px 0px 4px;
+  border-right-style: solid;
+  border-right-width: 1px;
+  display: flex;
+  padding: 9px 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-20 {
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.situation .text-21 {
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.situation .button-group-simple-secondary-2 {
+  border-color: var(--pink-swan);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-radius: 0px 4px 4px 0px;
+}
+
+.situation .text-22 {
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.situation .accordion {
+  align-items: flex-start;
+  border-radius: 4px;
+  flex-direction: column;
+}
+
+.situation .title-6 {
+  line-height: 20px;
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.situation .frame-62615 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px solid;
+  border-color: var(--alto);
+  border-radius: 0px 0px 4px 4px;
+  display: flex;
+  flex-direction: column;
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+}
+
+.situation .table-grid-toolbar {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  border-bottom: solid 1px #d9d9d9;
+  justify-content: space-between;
+  padding: 0px 16px;
+}
+
+.situation .frame-23-1 {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  justify-content: flex-end;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .search {
+  box-shadow: inset 1px 0px 0px #d9d9d9 , inset -1px 0px 0px #d9d9d9;
+}
+
+.situation .text-24 {
+  line-height: 20px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.situation .text-8 {
+  line-height: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .frame-22-1 {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  justify-content: flex-end;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-2 {
+  line-height: 18px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.situation .table-grid {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 397px;
+  overflow: hidden;
+  position: relative;
+}
+
+.situation .table-grid-columns {
+  align-items: flex-start;
+  flex: 1;
+  flex-direction: column;
+  margin-bottom: -504.00px;
+}
+
+.situation .table-grid-headers-basic-2 {
+  box-shadow: inset 0px -1px 0px #d9d9d9;
+  margin-right: -0.22px;
+  min-width: 153.0px;
+}
+
+.situation .frame-2-1 {
+  height: 28px;
+  left: 13px;
+  top: 5px;
+  width: fit-content;
+}
+
+.situation .item-12 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .table-grid-cell {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  box-shadow: inset 0px -1px 0px #d9d9d9;
+  flex-direction: column;
+  gap: 10px;
+  padding: 8px 13px;
+}
+
+.situation .item-13 {
+  margin-right: -629.22px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-14 {
+  margin-right: -102.22px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item {
+  margin-right: -635.22px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-15 {
+  margin-right: -526.22px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-1 {
+  margin-right: -288.22px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-16 {
+  margin-right: -100.22px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-17 {
+  margin-right: -88.22px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-18 {
+  margin-right: -202.22px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-19 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-20 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-21 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-22 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-23 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-24 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-25 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-26 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-27 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-28 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-29 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-30 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-31 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-32 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .table-grid-headers-basic {
+  align-self: stretch;
+  background-color: var(--white);
+  height: 37px;
+  margin-right: -0.22px;
+  min-width: 153.0px;
+  position: relative;
+}
+
+.situation .item-33 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .table-grid-cell-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  box-shadow: 0px -1px 0px #d9d9d9;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 8px 13px;
+}
+
+.situation .item-2 {
+  margin-right: -38.22px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-34 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-35 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-36 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-37 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-38 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-39 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-40 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-41 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-42 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-43 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-44 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-45 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-46 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-47 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-48 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-49 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-50 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-51 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-52 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-53 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-54 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-55 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-56 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-57 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-58 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-59 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-60 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-61 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-62 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-63 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-64 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-65 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-66 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-67 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-68 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-69 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-70 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-71 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-72 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-73 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-74 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-75 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-76 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .table-grid-cell-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  box-shadow: 0px -1px 0px #d9d9d9;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 8.5px 13px;
+}
+
+.situation .frame-1-5 {
+  align-items: center;
+  gap: 4px;
+  margin-right: -56.22px;
+  width: 183px;
+}
+
+.situation .text-27 {
+  color: var(--scarlet);
+  font-family: var(--font-family-dpl-iconfont-regular);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .item-3 {
+  flex: 1;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.situation .item-77 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-78 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-79 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-80 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-81 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-82 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-83 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-84 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-85 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-86 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-87 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-88 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-89 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-90 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-91 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-92 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-93 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-94 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-95 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-96 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-97 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-98 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-99 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-100 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .table-grid-cell-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  box-shadow: 0px -1px 0px #d9d9d9;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  padding: 7px 13px;
+}
+
+.situation .item-101 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .badge-2 {
+  align-items: center;
+  background-color: var(--chilean-fire);
+  border-radius: 1px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 2px 10px 3px;
+}
+
+.situation .item-102 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .frame-1-2 {
+  align-items: center;
+  gap: 8px;
+  margin-right: -56.22px;
+  width: 183px;
+}
+
+.situation .text-28 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-29 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-30 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-31 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-32 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-33 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-34 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-35 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-36 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-37 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-38 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-39 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-40 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-41 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-42 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-43 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-44 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-45 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-46 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-47 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-48 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-49 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-50 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-51 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .item-103 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-104 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-105 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-106 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-107 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-108 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-4 {
+  opacity: 0;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-109 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-110 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-111 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-112 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-113 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-114 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-115 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-116 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-117 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-118 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-119 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-120 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-121 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-122 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-123 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-124 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-125 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-126 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-127 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-128 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-129 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-130 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-131 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-132 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-133 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-134 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-135 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-136 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-137 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-138 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-139 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-140 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-141 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-142 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-143 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-144 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-145 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-146 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-147 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-148 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-149 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .table-grid-columns-1 {
+  margin-bottom: -504.00px;
+  width: fit-content;
+}
+
+.situation .line-1 {
+  box-shadow: inset 0px -1px 0px #d9d9d9;
+}
+
+.situation .table-grid-cell-4 {
+  box-shadow: inset 0px -1px 0px #d9d9d9;
+  height: 36px;
+  min-width: 33px;
+}
+
+.situation .text-3 {
+  left: 3px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  top: 8px;
+}
+
+.situation .table-grid-cell-5 {
+  box-shadow: inset 0px -1px 0px #5e5e5e;
+  height: 36px;
+  min-width: 33px;
+}
+
+.situation .pagination {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  position: relative;
+}
+
+.situation .left-1 {
+  height: 38px;
+  min-width: 49px;
+  position: relative;
+}
+
+.situation .item2 {
+  overflow: hidden;
+  width: 49px;
+}
+
+.situation .overlap-group {
+  align-items: flex-start;
+  border-radius: 4px 0px 0px 4px;
+  height: 38px;
+  min-width: 50px;
+  padding: 8px 20.6px;
+}
+
+.situation .page-selected {
+  overflow: hidden;
+}
+
+.situation .overlap-group1 {
+  align-items: center;
+  flex-direction: column;
+  gap: 8px;
+  min-height: 38px;
+  padding: 0 1.0px;
+  width: 50px;
+}
+
+.situation .number {
+  margin-right: 1.0px;
+  margin-top: 8px;
+  width: 8px;
+}
+
+.situation .rectangle {
+  background-color: var(--chilean-fire);
+  height: 2px;
+  margin-right: 1.0px;
+  width: 47px;
+}
+
+.situation .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 38px;
+  min-width: 50px;
+  padding: 8px 21px;
+}
+
+.situation .number-1 {
+  width: 7px;
+}
+
+.situation .number-2 {
+  width: 7px;
+}
+
+.situation .number-3 {
+  width: 7px;
+}
+
+.situation .number-4 {
+  width: 7px;
+}
+
+.situation .right {
+  height: 38px;
+  min-width: 50px;
+  position: relative;
+}
+
+.situation .item2-1 {
+  background-color: var(--white);
+  height: 38px;
+  padding: 8px 21.0px;
+  width: 50px;
+}
+
+.situation .add-new-icon {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 1px;
+  text-align: center;
+  white-space: nowrap;
+  width: 7px;
+}
+
+.situation .title-7 {
+  line-height: 20px;
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.situation .table-grid-toolbar-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  box-shadow: inset 1px 1px 0px #d9d9d9 , inset -1px 0px 0px #d9d9d9 , inset 0px -1px 0px #d9d9d9;
+  display: flex;
+  justify-content: space-between;
+  margin-top: -1px;
+  padding: 0px 16px;
+  position: relative;
+}
+
+.situation .search-1 {
+  box-shadow: inset 1px 0px 0px #d6d7d8 , inset -1px 0px 0px #d6d7d8;
+}
+
+.situation .text-77 {
+  line-height: 20px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.situation .text-12 {
+  line-height: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .table-grid-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  height: 73px;
+  overflow: hidden;
+}
+
+.situation .table-grid-columns-2 {
+  margin-bottom: -828.00px;
+  width: fit-content;
+}
+
+.situation .line {
+  box-shadow: inset 0px -1px 0px #d6d7d8;
+}
+
+.situation .table-grid-cell-6 {
+  box-shadow: inset 0px -1px 0px #d6d7d8;
+  height: 36px;
+  min-width: 33px;
+}
+
+.situation .text-80 {
+  left: 18px;
+  line-height: 20px;
+  position: absolute;
+  text-align: right;
+  top: 8px;
+}
+
+.situation .text-4 {
+  left: 9px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  top: 8px;
+}
+
+.situation .table-grid-columns-3 {
+  flex: 1;
+  margin-bottom: -828.00px;
+}
+
+.situation .table-grid-headers-basic-1 {
+  box-shadow: inset 0px -1px 0px #d6d7d8;
+  min-width: 122px;
+}
+
+.situation .item-150 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .table-grid-cell-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  box-shadow: inset 0px -1px 0px #d6d7d8;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 8px 13px;
+}
+
+.situation .item-151 {
+  margin-right: -598.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-152 {
+  margin-right: -133.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-5 {
+  margin-right: -666.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-153 {
+  margin-right: -557.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-6 {
+  margin-right: -319.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-154 {
+  margin-right: -131.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-155 {
+  margin-right: -119.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-156 {
+  margin-right: -233.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-157 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-158 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-159 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-160 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-161 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-162 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-163 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-164 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-165 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-166 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-167 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-168 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-169 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-170 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-171 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-7 {
+  margin-right: -10.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-172 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-173 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-174 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-175 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-176 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-177 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-178 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-179 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-180 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-181 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-182 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-183 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-184 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-185 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-186 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-187 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-188 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-189 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-190 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-191 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-192 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-193 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-194 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-195 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-196 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-197 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-198 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-199 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-200 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-201 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-202 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-203 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-204 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-205 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-206 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-207 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-208 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-209 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-210 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-211 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-212 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-213 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-214 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-215 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-216 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-217 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-218 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-219 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-220 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-221 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-222 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-223 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-224 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-225 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-226 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-227 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-228 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-229 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-230 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-231 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-232 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-233 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-234 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .table-grid-cell-9 {
+  align-self: stretch;
+  box-shadow: inset 0px -1px 0px #d6d7d8;
+  height: 36px;
+  min-width: 122px;
+}
+
+.situation .text-104 {
+  left: 9px;
+  line-height: 18px;
+  position: absolute;
+  top: 8px;
+}
+
+.situation .item-235 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-236 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-237 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-238 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-239 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-240 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-241 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-242 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-243 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-244 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-245 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-246 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-247 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-248 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-249 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .table-grid-cell-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  box-shadow: inset 0px -1px 0px #d6d7d8;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  padding: 6.5px 13px;
+}
+
+.situation .item-250 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-251 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .frame-1-3 {
+  align-items: center;
+  gap: 8px;
+  margin-right: -87.00px;
+  width: 183px;
+}
+
+.situation .text-105 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-106 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-107 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-108 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-109 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-110 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-111 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-112 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-113 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-114 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-115 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-116 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-117 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-118 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-119 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-120 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-121 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-122 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-123 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-124 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-125 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-126 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-127 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-128 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .item-252 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .text-129 {
+  color: #95bc44;
+  font-family: var(--font-family-dpl-iconfont-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .item-8 {
+  flex: 1;
+  margin-top: -1.00px;
+  opacity: 0;
+  white-space: nowrap;
+}
+
+.situation .text-130 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-131 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-132 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-133 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-134 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-135 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-136 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-137 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-138 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-139 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-140 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-141 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-142 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-143 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-144 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-145 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-146 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-147 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-148 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-149 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-150 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-151 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-152 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .table-grid-columns-4 {
+  flex: 1;
+  margin-bottom: -848.00px;
+}
+
+.situation .item-253 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-254 {
+  cursor: pointer;
+  margin-right: -15.00px;
+  width: fit-content;
+}
+
+.situation .item-255 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-256 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-257 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-258 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-259 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-260 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-261 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-262 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-263 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-264 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-265 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-266 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-267 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-268 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-269 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-270 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-271 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-272 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-273 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-274 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-275 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-276 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-277 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .title-8 {
+  line-height: 20px;
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.situation .text-178 {
+  line-height: 20px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.situation .text-13 {
+  line-height: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .item-278 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-9 {
+  margin-right: -559.22px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-10 {
+  margin-right: -278.22px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-279 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-280 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-281 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-282 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-283 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-284 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-285 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-286 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-287 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-288 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-289 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-290 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-291 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-292 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-293 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-294 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-295 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-296 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-297 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-298 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-299 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-300 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-301 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-302 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-303 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-304 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-305 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-306 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-307 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-308 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-309 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-310 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-311 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-312 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-313 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-314 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-315 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-316 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-317 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-318 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-319 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-320 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-321 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-322 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-323 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-324 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-325 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-326 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-327 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-328 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-329 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-330 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-331 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-332 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-333 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-334 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-335 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-336 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-337 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-338 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-339 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-340 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-341 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-342 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-343 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .text-181 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-182 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-183 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-184 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-185 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-186 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-187 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-188 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-189 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-190 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-191 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-192 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-193 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-194 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-195 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-196 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-197 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-198 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-199 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-200 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-201 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-202 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-203 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-204 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .item-344 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-345 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-346 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .text-205 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-206 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-207 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-208 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-209 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-210 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-211 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-212 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-213 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-214 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-215 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-216 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-217 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-218 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-219 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-220 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-221 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-222 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-223 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-224 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-225 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-226 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-227 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-228 {
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .item-347 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-348 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-349 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-350 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-351 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-352 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-353 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-354 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-355 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-356 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-357 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-358 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-359 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-360 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-361 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-362 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-363 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-364 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-365 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-366 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-367 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-368 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-369 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-370 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-371 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-372 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-11 {
+  cursor: pointer;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-373 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-374 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-375 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-376 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-377 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-378 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-379 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-380 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-381 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-382 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-383 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-384 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-385 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-386 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-387 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-388 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .item-389 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .line-2 {
+  border-bottom: solid 1px #d9d9d9;
+}
+
+.situation .left-2 {
+  height: 38px;
+  min-width: 49px;
+  position: relative;
+}
+
+.situation .number-5 {
+  width: 7px;
+}
+
+.situation .number-6 {
+  width: 7px;
+}
+
+.situation .number-7 {
+  width: 7px;
+}
+
+.situation .number-8 {
+  width: 7px;
+}
+
+.situation .accordion-2 {
+  align-self: stretch;
+  display: flex;
+  position: relative;
+}
+
+.situation .add-new-icon-3 {
+  letter-spacing: 0;
+  line-height: 20px;
+  text-align: center;
+  white-space: nowrap;
+  width: 7px;
+}
+
+.situation .ai-2 {
+  color: var(--dodger-blue);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-s);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .badge-3 {
+  position: relative;
+  width: fit-content;
+}
+
+.situation .badge-label-146 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .button-group-simple-secondary-3 {
+  align-items: flex-start;
+  background-color: var(--mercury);
+  display: flex;
+  padding: 9px 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .button-label-5 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .buttons-7 {
+  align-items: center;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .frame-1-6 {
+  display: flex;
+  position: relative;
+}
+
+.situation .frame-2-3 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+}
+
+.situation .icon {
+  letter-spacing: 0;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.situation .item-390 {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+}
+
+.situation .item2-2 {
+  align-items: flex-start;
+  display: flex;
+}
+
+.situation .label-5 {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .line-3 {
+  background-color: var(--white);
+  height: 37px;
+  min-width: 33px;
+  position: relative;
+}
+
+.situation .number-9 {
+  letter-spacing: 0;
+  line-height: 20px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.situation .overlap {
+  background-color: var(--white);
+  display: flex;
+}
+
+.situation .page-8 {
+  height: 38px;
+  min-width: 49px;
+  position: relative;
+}
+
+.situation .search-2 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 10px;
+  height: 37px;
+  padding: 0px 16px;
+  position: relative;
+  width: 145px;
+}
+
+.situation .tab-label-4 {
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .table-grid-2 {
+  display: flex;
+  position: relative;
+}
+
+.situation .table-grid-cell-10 {
+  background-color: var(--white);
+  position: relative;
+}
+
+.situation .table-grid-columns-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.situation .table-grid-headers-basic-3 {
+  align-self: stretch;
+  background-color: var(--white);
+  height: 37px;
+  position: relative;
+}
+
+.situation .tabs-item {
+  display: flex;
+  position: relative;
+}
+
+.situation .tags-2 {
+  align-items: flex-start;
+  border-radius: 100px;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.situation .text-23 {
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.situation .tintin-2 {
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.situation .title-9 {
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.extra-margin-cell{
+  padding: 8.5px 13px !important;
+}
+
+.fixed-height{
+  height: 74px;
+}
